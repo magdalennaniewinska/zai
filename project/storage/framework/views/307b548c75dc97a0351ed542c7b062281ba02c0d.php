@@ -1,0 +1,1 @@
+<?php /**PATH /Users/magdalenan/laravel_proj/project/resources/views/opiekun/body.blade.php ENDPATH**/ ?>
